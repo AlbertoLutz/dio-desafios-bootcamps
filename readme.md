@@ -37,48 +37,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📚
 
-<!-- C# -->
-<details>
-<summary><span>C#</span></summary>
-
-|                      Desafio                       |                           Código                            | SQ  |
-| :------------------------------------------------: | :---------------------------------------------------------: | :-: |
-|                 Assets do Projeto                  |              [🔗](./csharp/AssetsDoProjeto.cs)              |     |
-|                       Blobs                        |                   [🔗](./csharp/Blobs.cs)                   |     |
-|                  Cálculo Simples                   |              [🔗](./csharp/CalculoSimples.cs)               |     |
-|              Compras no Supermercado               |            [🔗](./csharp/ComprasSupermercado.cs)            |     |
-|             Conhecendo a Sintaxe do C#             |             [🔗](./trainnee-carrefour/Main.cs)              |     |
-|                Contagem de Cédulas                 |              [🔗](./csharp/ContagemCedulas.cs)              |     |
-|                 Conversa no Bolão                  |              [🔗](./csharp/ConversaNoBalao.cs)              |     |
-|                 Conversão de Tempo                 |             [🔗](./csharp/ConversaoDeTempo.cs)              |     |
-|                  Coxinha do Bueno                  |              [🔗](./csharp/CoxinhaDoBueno.cs)               |     |
-|                  Encaixa ou Não?                   |               [🔗](./csharp/EncaixaOuNao.cs)                |     |
-|                Fórmula de Bhaskara                 |              [🔗](./csharp/FormulaBhaskara.cs)              |     |
-|                      Ho Ho Ho                      |                  [🔗](./csharp/Hohoho.cs)                   |     |
-|                   Idade em Dias                    |                [🔗](./csharp/IdadeEmDias.cs)                |     |
-|              Levou dano na Armadilha?              |                 [🔗](./csharp/LevouDano.cs)                 |     |
-|                      Média 2                       |                  [🔗](./csharp/Media2.cs)                   |     |
-|                      Média 3                       |                  [🔗](./csharp/Media3.cs)                   |     |
-|                        Mês                         |                    [🔗](./csharp/Mes.cs)                    |     |
-|               Multiplicação Simples                |           [🔗](./csharp/MultiplicacaoSimples.cs)            |     |
-|                  Múltiplos de 13                   |               [🔗](./csharp/MultiplosDe13.cs)               |     |
-|            Pedro Bento e o Mundo de OZ             |           [🔗](./csharp/PedroBentoEOMundoDeOz.cs)           |     |
-|                   Pink e Cérebro                   |                [🔗](./csharp/PinkCerebro.cs)                |     |
-|                        Pneu                        |                   [🔗](./csharp/Pneu.cs)                    |     |
-|            Polígonos Regulares Simples             |         [🔗](./csharp/PoligonosRegularesSimples.cs)         |     |
-|                        Pum                         |                    [🔗](./csharp/Pum.cs)                    |     |
-|                 Quadrado e ao Cubo                 |               [🔗](./csharp/QuadradoCubo.cs)                |     |
-|                     Quadrante                      |                 [🔗](./csharp/Quadrante.cs)                 |     |
-|             Soma de Pares Consecutivos             |           [🔗](./csharp/SomaParesConsecutivos.cs)           |     |
-| Subtraindo o produto e a soma de um número inteiro | [🔗](./csharp/SubtraindoOProdutoEASomaDeUmNumeroInteiro.cs) |     |
-|                   Tempo do Dobby                   |               [🔗](./csharp/TempoDoDobby.cs)                |     |
-|                      Tabuada                       |                  [🔗](./csharp/Tabuada.cs)                  |     |
-|                   Três Divisores                   |               [🔗](./csharp/TresDivisores.cs)               |     |
-|                     Triângulo                      |                 [🔗](./csharp/Triangulo.cs)                 |     |
-|                 Validação de Nota                  |              [🔗](./csharp/ValidacaoDeNota.cs)              |     |
-
-</details>
-
 <!-- Java -->
 <details>
 <summary><span>Java</span></summary>
@@ -294,33 +252,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 </details>
 
-<!-- Kotlin -->
-<details>
-<summary><span>Kotlin</span></summary>
-
-|                     Desafio                     |               Código               |    SQ     |
-| :---------------------------------------------: | :--------------------------------: | :-------: |
-|                Cálculo Salarial                 | [🔗](./kotlin/CalculoSalarial.kt)  | 38.20 pts |
-|                Data por Extenso                 |  [🔗](./kotlin/DataPorExtenso.kt)  | 43.94 pts |
-|              Média Final do Aluno               |    [🔗](./kotlin/MediaFinal.kt)    | 45.70 pts |
-|                 Numeral Romano                  |  [🔗](./kotlin/NumeralRomano.kt)   | 48.64 pts |
-| Simplificando a Orientação a Objetos com Kotlin | [🔗](./trainnee-carrefour/Main.kt) |           |
-|               Taxa de Crescimento               | [🔗](./kotlin/TaxaCrescimento.kt)  | 48.09 pts |
-
-</details>
-
-<!-- PHP -->
-<details>
-<summary><span>PHP</span></summary>
-
-|      Desafio      |             Código              | SQ  |
-| :---------------: | :-----------------------------: | :-: |
-|     Distância     |    [🔗](./php/Distancia.php)    |     |
-| Salário com Bônus | [🔗](./php/SalarioComBonus.php) |     |
-|   Soma Simples    |   [🔗](./php/SomaSimples.php)   |     |
-
-</details>
-
 <!-- Python -->
 <details>
 <summary><span>Python</span></summary>
@@ -353,14 +284,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 </details>
 
-<!-- Ruby -->
-<details>
-<summary><span>Ruby</span></summary>
 
-|        Desafio        |              Código              | SQ  |
-| :-------------------: | :------------------------------: | :-: |
-| Qual Número é o Maior | [🔗](./ruby/QualNumeroMaior.ru)  |     |
-|       Soma dois       |     [🔗](./ruby/SomaDois.ru)     |     |
-|   Temperatura Amena   | [🔗](./ruby/TemperaturaAmena.ru) |     |
-
-</details>
