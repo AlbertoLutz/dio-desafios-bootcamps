@@ -22,8 +22,7 @@ Desafios Java, JavaScript e Python dos Bootcamps da Digital Innovation One.
 
 ## 🚀 Tecnologias
 
-<p align="center">
-    
+<p align="center">    
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" title ="java">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" title ="javascript">   
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" title ="python">
